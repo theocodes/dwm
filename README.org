@@ -1,0 +1,16 @@
+#+TITLE: dwm
+
+My build of the [[https://dwm.suckless.org][dwm]] window manager.
+
+** Requirements
+
+   In order to build dwm you need the Xlib header files.
+
+** Keybindings
+
+   TODO
+
+** Patches
+
+   - [[https://dwm.suckless.org/patches/titlecolor][titlecolor]] 
+   - [[https://dwm.suckless.org/patches/fullgaps][fullgaps]] 
