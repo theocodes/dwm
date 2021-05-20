@@ -14,3 +14,5 @@ My build of the [[https://dwm.suckless.org][dwm]] window manager.
 
    - [[https://dwm.suckless.org/patches/titlecolor][titlecolor]] 
    - [[https://dwm.suckless.org/patches/fullgaps][fullgaps]] 
+   - [[https://dwm.suckless.org/patches/systray][systray]]
+   - [[https://dwm.suckless.org/patches/sticky][sticky]] 
